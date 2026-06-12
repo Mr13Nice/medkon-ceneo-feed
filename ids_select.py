@@ -5,6 +5,9 @@ from datetime import datetime
 def normalize_text(text):
     return " ".join(text.casefold().split())
 
+def keyword_matches_name(keyword, name_text):
+    return all(word in name_text for word in keyword.split())
+
 # sprawdzenie argumentów
 if len(sys.argv) < 2:
     print('Użycie: python ids_select.py fraza1 "fraza z odstępem" ...')
@@ -37,7 +40,7 @@ for offer in root.findall(".//o"):
     if name_elem is not None and name_elem.text:
         name_text = normalize_text(name_elem.text)
         
-        if any(keyword in name_text for keyword in KEYWORDS):
+        if any(keyword_matches_name(keyword, name_text) for keyword in KEYWORDS):
             product_id = offer.get("id")
             if product_id and product_id not in seen_ids:
                 ids.append(product_id)
