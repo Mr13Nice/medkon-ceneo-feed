@@ -7,11 +7,18 @@ W pierwszej kolejoności należy pobrać najświeższy plik XML z aktualną ofer
 plik jako "oferta_medkon.xml". Aby dokonać filtrowania, należy również utwozyć plik .txt z listą ID produktów,
 które mają znaleźć się w ofercie. Każdy ID powinien być w osobnym wierszu.
 
-Aby utworzyć plik z IDs produktów, kóre zawierają fragment podanej nazwy należy użyć skryptu "ids_select.py":
-aby uruchomć skrypt po jego otwarciu w terminal należy wpisać: python ids_select.py fraza1 fraza2 fraza3 - wówczas
-skrypt utowrzy plik txt z unikalnymi IDs produktów, które zawierają w nazwie podane frazy.
-Jeżeli chcesz wyszukać dwa lub więcej słów występujących obok siebie w nazwie produktu, wpisz je w cudzysłowie,
-np. python ids_select.py "avene sun". Można też mieszać pojedyncze słowa i frazy, np. python ids_select.py avene "la roche".
+Aby utworzyć plik z IDs produktów, które zawierają wskazaną frazę w nazwie produktu albo w nazwie producenta,
+należy użyć skryptu "ids_select.py". Skrypt przyjmuje najpierw pole filtrowania, a potem jedną lub kilka fraz:
+python ids_select.py name fraza1 fraza2 fraza3
+python ids_select.py producer fraza1 fraza2 fraza3
+
+Tryb "name" wyszukuje frazy w nazwie produktu, np. python ids_select.py name "avene spf".
+Tryb "producer" wyszukuje frazy w nazwie producenta, np. python ids_select.py producer boiron.
+Można też użyć polskiego aliasu "producent", np. python ids_select.py producent boiron.
+
+Dla zgodności ze starszym użyciem można nadal pominąć pole filtrowania - wtedy skrypt domyślnie filtruje po nazwie produktu,
+np. python ids_select.py "avene sun". Można też mieszać pojedyncze słowa i frazy, np. python ids_select.py name avene "la roche".
+Jeżeli chcesz wyszukać dwa lub więcej słów występujących obok siebie, wpisz je w cudzysłowie.
 
 Po wyselekcjonowaniu właściwych IDs należy uruchomić skrypt filter_xml.py aby utworzyć nowy plik XML z wybranymi 
 produktami o IDs podanymi w pliku lub w kilku plikach. Aby uruchomić ten skrypt należy:
