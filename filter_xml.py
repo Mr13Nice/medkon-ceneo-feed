@@ -6,6 +6,7 @@ from pathlib import Path
 
 CONFIG_FILE = Path("offer_sources.txt")
 INPUT_XML = Path("oferta_medkon.xml")
+IDS_DIR = Path("ids_lists")
 
 
 def read_config(config_file):
@@ -29,8 +30,17 @@ def read_config(config_file):
 
 def resolve_ids_files(arguments):
     if arguments:
-        return arguments, "argumenty komendy"
-    return read_config(CONFIG_FILE), str(CONFIG_FILE)
+        ids_files = arguments
+        source = "argumenty komendy"
+    else:
+        ids_files = read_config(CONFIG_FILE)
+        source = str(CONFIG_FILE)
+
+    resolved_files = [
+        str(IDS_DIR / path) if Path(path).parent == Path(".") else path
+        for path in ids_files
+    ]
+    return resolved_files, source
 
 
 def validate_input_files(ids_files):

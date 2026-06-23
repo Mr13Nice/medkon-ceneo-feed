@@ -10,3 +10,9 @@ ids_producer_heel_16_06_2026.txt
 ids_omron_23_06_2026.txt
 ids_natur_glam_23_06_2026.txt
 ids_mediket_23_06_2026.txt
+ids_fenistil_23_06_2026.txt
+ids_producer_lehning_23_06_2026.txt
+ids_allergika_23_06_2026.txt
+ids_otrivin_23_06_2026.txt
+ids_producer_nutro_pharma_23_06_2026.txt
+ids_fertistim_23_06_2026.txt

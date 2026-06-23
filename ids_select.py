@@ -6,6 +6,7 @@ from lxml import etree
 
 
 INPUT_XML = "oferta_medkon.xml"
+IDS_DIR = Path("ids_lists")
 FIELDS = {
     "name": "name",
     "nazwa": "name",
@@ -69,7 +70,7 @@ def output_path(field, keywords):
     safe_keywords = [keyword.replace(" ", "_") for keyword in keywords]
     keywords_part = "_".join(safe_keywords)
     prefix = "ids" if field == "name" else f"ids_{field}"
-    return Path(f"{prefix}_{keywords_part}_{today}.txt")
+    return IDS_DIR / f"{prefix}_{keywords_part}_{today}.txt"
 
 
 def main(argv):
@@ -92,6 +93,7 @@ def main(argv):
                 seen_ids.add(product_id)
 
     path = output_path(field, keywords)
+    path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as f:
         for product_id in ids:
             f.write(f"{product_id}\n")
