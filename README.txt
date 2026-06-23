@@ -20,11 +20,24 @@ Dla zgodności ze starszym użyciem można nadal pominąć pole filtrowania - wt
 np. python ids_select.py "avene sun". Można też mieszać pojedyncze słowa i frazy, np. python ids_select.py name avene "la roche".
 Jeżeli chcesz wyszukać dwa lub więcej słów występujących obok siebie, wpisz je w cudzysłowie.
 
-Po wyselekcjonowaniu właściwych IDs należy uruchomić skrypt filter_xml.py aby utworzyć nowy plik XML z wybranymi 
-produktami o IDs podanymi w pliku lub w kilku plikach. Aby uruchomić ten skrypt należy:
-- w jednym folderze trzymać plik filter_xml.py, plik oferta_medkon.xml oraz wybrane listy IDs, np. ids_basic.txt i ids_avene_sun_09_06_2026.txt
-- otworzyć skrypt filter_xml
-- w terminalu wpisać: python filter_xml.py ids_basic.txt ids_avene_sun_09_06_2026.txt
+Po wyselekcjonowaniu właściwych IDs należy wpisać nazwy używanych list ID do pliku "offer_sources.txt".
+Każda nazwa pliku powinna znajdować się w osobnym wierszu, np.:
+ids_basic.txt
+ids_avene_spf.txt
+ids_producer_boiron_16_06_2026.txt
+
+Puste wiersze oraz wiersze zaczynające się od znaku # są pomijane. Aby dodać albo usunąć grupę produktów
+z kolejnych ofert, wystarczy zmienić zawartość pliku "offer_sources.txt".
+
+Aby utworzyć nowy plik XML zgodnie z tą konfiguracją, należy uruchomić krótką komendę:
+python filter_xml.py
+
+Nadal można jednorazowo podać pliki bezpośrednio w komendzie, np.:
+python filter_xml.py ids_basic.txt ids_avene_sun_09_06_2026.txt
+Pliki podane w komendzie mają pierwszeństwo i w takim przypadku zawartość "offer_sources.txt" jest pomijana.
+
+Pliki filter_xml.py, offer_sources.txt, oferta_medkon.xml oraz wszystkie wskazane listy ID powinny znajdować się
+w tym samym folderze.
 
 Skrypt filter_xml.py automatycznie scala ID z podanych plików, usuwa duplikaty i na końcu pokazuje podsumowanie:
 ile ID wczytano, ile było unikalnych, ile produktów zapisano do XML oraz ile ID nie występuje już w aktualnym pliku oferta_medkon.xml.

@@ -1,0 +1,12 @@
+# Pliki ID uzywane do tworzenia aktualnej oferty Ceneo.
+# Jedna nazwa pliku w wierszu. Puste linie i linie zaczynajace sie od # sa pomijane.
+
+ids_basic.txt
+ids_avene_spf.txt
+ids_caudalie_12_05_2026.txt
+ids_avene_sun_09_06_2026.txt
+ids_producer_boiron_16_06_2026.txt
+ids_producer_heel_16_06_2026.txt
+ids_omron_23_06_2026.txt
+ids_natur_glam_23_06_2026.txt
+ids_mediket_23_06_2026.txt
