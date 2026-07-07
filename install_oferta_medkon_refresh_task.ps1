@@ -14,7 +14,7 @@ if (-not (Test-Path $scriptPath)) {
 
 $action = New-ScheduledTaskAction `
     -Execute "powershell.exe" `
-    -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$scriptPath`""
+    -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$scriptPath`" -KeepBackup"
 
 $trigger = New-ScheduledTaskTrigger -Daily -At $At
 $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable -MultipleInstances IgnoreNew
@@ -24,7 +24,7 @@ Register-ScheduledTask `
     -Action $action `
     -Trigger $trigger `
     -Settings $settings `
-    -Description "Cykliczne pobieranie oferta_medkon.xml z modulu Ceneo XML z pominieciem pierwszego wiersza." `
+    -Description "Cykliczne pobieranie i walidacja oferta_medkon.xml z modulu Ceneo XML." `
     -Force
 
 Write-Host "Dodano zadanie: $TaskName"
