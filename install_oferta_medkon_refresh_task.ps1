@@ -1,6 +1,6 @@
 param(
     [string]$TaskName = "Medkon - odswiez oferta_medkon.xml",
-    [string]$At = "10:00"
+    [string]$At = "09:30"
 )
 
 $ErrorActionPreference = "Stop"

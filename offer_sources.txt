@@ -17,5 +17,5 @@ ids_otrivin_23_06_2026.txt
 ids_producer_nutro_pharma_23_06_2026.txt
 ids_fertistim_23_06_2026.txt
 ids_swederm_02_07_2026.txt
-ids_producer_nuxe_02_07_2026.txt
 ids_producer_pierre_fabre_02_07_2026.txt
+ids_producer_dermedic_07_07_2026.txt
