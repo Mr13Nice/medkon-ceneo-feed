@@ -3,7 +3,6 @@
 
 ids_basic.txt
 ids_avene_spf.txt
-ids_caudalie_12_05_2026.txt
 ids_avene_sun_09_06_2026.txt
 ids_producer_boiron_16_06_2026.txt
 ids_producer_heel_16_06_2026.txt
@@ -20,6 +19,7 @@ ids_swederm_02_07_2026.txt
 ids_seboradin_16_07_2026.txt
 ids_mustela_16_07_2026.txt
 ids_bebilon_16_07_2026.txt
-ids_caudalie_04_08_2026.txt
 ids_avene_klorane_ducray_a-derma_14_04_2026.txt
 ids_avene_klorane_ducray_a-derma_aderma_04_08_2026.txt
+ids_caudalie_04_08_2026.txt
+ids_producer_pierre_fabre_04_08_2026.txt
