@@ -23,3 +23,8 @@ ids_avene_klorane_ducray_a-derma_14_04_2026.txt
 ids_avene_klorane_ducray_a-derma_aderma_04_08_2026.txt
 ids_caudalie_04_08_2026.txt
 ids_producer_pierre_fabre_04_08_2026.txt
+ids_doppelherz_06_08_2026.txt
+ids_cerko_06_08_2026.txt
+ids_gehwol_06_08_2026.txt
+ids_pharmaceris_06_08_2026.txt
+ids_scholl_06_08_2026.txt
