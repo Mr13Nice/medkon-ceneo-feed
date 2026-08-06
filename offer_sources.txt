@@ -28,3 +28,4 @@ ids_cerko_06_08_2026.txt
 ids_gehwol_06_08_2026.txt
 ids_pharmaceris_06_08_2026.txt
 ids_scholl_06_08_2026.txt
+ids_producer_olimp_06_08_2026.txt
