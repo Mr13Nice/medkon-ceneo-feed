@@ -15,7 +15,7 @@ ids_allergika_23_06_2026.txt
 ids_otrivin_23_06_2026.txt
 ids_producer_nutro_pharma_23_06_2026.txt
 ids_fertistim_23_06_2026.txt
-ids_swederm_02_07_2026.txt
+ids_swederm_20_08_2026.txt
 ids_seboradin_16_07_2026.txt
 ids_mustela_11_08_2026.txt
 ids_bebilon_16_07_2026.txt
