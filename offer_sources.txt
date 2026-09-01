@@ -8,7 +8,6 @@ ids_producer_boiron_16_06_2026.txt
 ids_producer_heel_16_06_2026.txt
 ids_omron_23_06_2026.txt
 ids_natur_glam_23_06_2026.txt
-ids_mediket_23_06_2026.txt
 ids_fenistil_23_06_2026.txt
 ids_producer_lehning_23_06_2026.txt
 ids_allergika_23_06_2026.txt
@@ -30,3 +29,5 @@ ids_nuxe_avene_klorane_ducray_a-derma_01_09_2026.txt
 ids_producer_pierre_fabre_01_09_2026.txt
 ids_nuxe_01_09_2026.txt
 ids_producer_nuxe_01_09_2026.txt
+ids_mediket_01_09_2026.txt
+ids_producer_solgar_01_09_2026.txt
