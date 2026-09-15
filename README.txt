@@ -1,5 +1,13 @@
 *** MEDKON - obróbka XMLa ***
 
+Ręczna aktualizacja XML (ta sama operacja co automatyczne zadanie codziennie o 9:30):
+Uruchom w PowerShell w folderze projektu:
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\update_oferta_medkon.ps1 -KeepBackup
+
+Komenda pobiera i sprawdza aktualną ofertę, zapisuje ją jako "oferta_medkon.xml",
+a poprzednią wersję zachowuje w "oferta_medkon.xml.bak". Log: "oferta_medkon_update.log".
+Po aktualizacji uruchom "python filter_xml.py", aby wygenerować przefiltrowany XML dla Ceneo.
+
 Poniższa insrukcja do odfiltrowania produktów z wyjściowego XMLa, do XML zawierającego tylko produkty,
 które mają znaleźć się na stronie Ceneo.
 
