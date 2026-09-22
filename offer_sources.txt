@@ -30,8 +30,8 @@ ids_producer_pierre_fabre_01_09_2026.txt
 ids_nuxe_01_09_2026.txt
 ids_producer_nuxe_01_09_2026.txt
 ids_mediket_01_09_2026.txt
-ids_producer_solgar_01_09_2026.txt
 ids_producer_aboca_15_09_2026.txt
 ids_elgydium_15_09_2026.txt
 ids_jasnum_15_09_2026.txt
 ids_naturell_15_09_2026.txt
+ids_solgar_22_09_2026.txt
