@@ -207,3 +207,22 @@
 2026-09-28 11:45:48 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
 2026-09-28 11:45:48 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
 2026-09-28 11:45:48 Liczba ofert: 10915
+2026-09-29 09:30:04 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-09-29 09:30:31 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-09-29 09:30:31 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-09-29 09:32:19 Przygotowuje XML do walidacji.
+2026-09-29 09:32:23 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
+2026-09-29 09:32:23 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
+2026-09-29 09:32:23 Liczba ofert: 10929
+2026-10-02 12:04:32 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-02 12:05:05 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-10-02 12:05:06 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-02 12:12:55 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-02 12:14:44 Przygotowuje XML do walidacji.
+2026-10-02 14:32:30 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-02 14:33:00 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-10-02 14:33:00 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-02 14:35:43 Przygotowuje XML do walidacji.
+2026-10-02 14:35:46 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
+2026-10-02 14:35:46 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
+2026-10-02 14:35:46 Liczba ofert: 10982
