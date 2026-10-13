@@ -226,3 +226,25 @@
 2026-10-02 14:35:46 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
 2026-10-02 14:35:46 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
 2026-10-02 14:35:46 Liczba ofert: 10982
+2026-10-09 13:46:34 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-12 13:18:53 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-12 13:19:26 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-10-12 13:19:26 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-12 13:22:26 Przygotowuje XML do walidacji.
+2026-10-12 13:22:35 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
+2026-10-12 13:22:35 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
+2026-10-12 13:22:35 Liczba ofert: 11309
+2026-10-13 16:02:56 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-13 16:03:29 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-10-13 16:03:29 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-13 16:05:51 Przygotowuje XML do walidacji.
+2026-10-13 16:05:57 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
+2026-10-13 16:05:57 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
+2026-10-13 16:05:57 Liczba ofert: 11311
+2026-10-13 17:35:10 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-13 17:35:43 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-10-13 17:35:43 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-13 17:39:13 Przygotowuje XML do walidacji.
+2026-10-13 17:39:20 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
+2026-10-13 17:39:20 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
+2026-10-13 17:39:20 Liczba ofert: 11311
