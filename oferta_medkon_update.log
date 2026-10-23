@@ -259,3 +259,23 @@
 2026-10-19 09:36:43 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
 2026-10-19 09:36:44 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
 2026-10-19 09:36:44 Liczba ofert: 11207
+2026-10-20 09:30:04 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-20 09:30:36 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-10-20 09:30:36 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-20 09:31:32 Przygotowuje XML do walidacji.
+2026-10-20 09:31:36 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
+2026-10-20 09:31:36 Liczba ofert: 11207
+2026-10-23 09:27:03 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-23 09:27:34 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-10-23 09:27:34 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-23 09:29:14 Przygotowuje XML do walidacji.
+2026-10-23 09:29:19 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
+2026-10-23 09:29:19 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
+2026-10-23 09:29:19 Liczba ofert: 11234
+2026-10-23 09:30:51 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-23 09:31:23 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-10-23 09:31:23 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-23 09:33:48 Przygotowuje XML do walidacji.
+2026-10-23 09:33:53 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
+2026-10-23 09:33:53 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
+2026-10-23 09:33:53 Liczba ofert: 11234
