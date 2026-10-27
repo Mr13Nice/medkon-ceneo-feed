@@ -286,3 +286,17 @@
 2026-10-26 11:42:35 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
 2026-10-26 11:42:35 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
 2026-10-26 11:42:35 Liczba ofert: 11248
+2026-10-27 09:30:01 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-27 09:30:32 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-10-27 09:30:32 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-27 09:32:12 Przygotowuje XML do walidacji.
+2026-10-27 09:32:16 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
+2026-10-27 09:32:16 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
+2026-10-27 09:32:16 Liczba ofert: 11261
+2026-10-27 14:47:48 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-27 14:48:19 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-10-27 14:48:19 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-10-27 14:50:51 Przygotowuje XML do walidacji.
+2026-10-27 14:50:56 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
+2026-10-27 14:50:56 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
+2026-10-27 14:50:56 Liczba ofert: 11268
