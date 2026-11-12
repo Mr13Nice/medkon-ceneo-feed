@@ -4,7 +4,6 @@
 ids_basic.txt
 ids_avene_spf.txt
 ids_avene_sun_09_06_2026.txt
-ids_avene_ducray_a-derma_klorane_xeracalm_29_10_2026.txt
 ids_producer_boiron_16_06_2026.txt
 ids_producer_heel_16_06_2026.txt
 ids_omron_23_06_2026.txt
@@ -19,14 +18,14 @@ ids_swederm_20_08_2026.txt
 ids_seboradin_16_07_2026.txt
 ids_mustela_11_08_2026.txt
 ids_bebilon_23_10_2026.txt
-ids_caudalie_23_10_2026.txt
+ids_caudalie_12_11_2026.txt
 ids_doppelherz_06_08_2026.txt
 ids_cerko_06_08_2026.txt
 ids_gehwol_06_08_2026.txt
 ids_pharmaceris_23_10_2026.txt
 ids_scholl_06_08_2026.txt
 ids_producer_olimp_06_08_2026.txt
-ids_producer_pierre_fabre_29_10_2026.txt
+ids_producer_pierre_fabre_12_11_2026.txt
 ids_nuxe_29_10_2026.txt
 ids_mediket_01_09_2026.txt
 ids_producer_aboca_15_09_2026.txt
@@ -38,3 +37,6 @@ ids_test_23_09_2026.txt
 ids_białko_02_10_2026.txt
 ids_sanprobi_23_10_2026.txt
 ids_ibuvit_23_10_2026.txt
+ids_bioderma_12_11_2026.txt
+ids_producer_bioderma_12_11_2026.txt
+ids_avene_a-derma_ducray_klorane_xeracalm_12_11_2026.txt
