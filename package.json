@@ -1,7 +1,0 @@
-{
-  "name": "medkon-ceneo-feed",
-  "private": true,
-  "scripts": {
-    "inpost:update-after-csv": "node run-inpost-update-after-csv.js"
-  }
-}

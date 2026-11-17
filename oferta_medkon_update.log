@@ -374,3 +374,9 @@
 2026-11-16 12:49:25 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
 2026-11-16 12:49:25 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
 2026-11-16 12:49:25 Liczba ofert: 10729
+2026-11-17 10:40:24 Pobieram: https://medkon.pl/module/ceneo_xml/generate?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-11-17 10:40:54 Odpowiedz nie jest XML. Znaleziono link do pobrania.
+2026-11-17 10:40:54 Pobieram: https://medkon.pl/module/ceneo_xml/download?secure_key=02f527f2c560e9b762d0025ef90d2179&id_shop=1&show_output=0
+2026-11-17 10:43:24 Przygotowuje XML do walidacji.
+2026-11-17 10:43:32 Kopia poprzedniego pliku: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml.bak
+2026-11-17 10:43:32 Gotowe: C:\Users\user\Documents\Medkon\ceneo_vsc\oferta_medkon.xml
