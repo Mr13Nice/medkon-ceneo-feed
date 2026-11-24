@@ -33,7 +33,6 @@ ids_elgydium_24_11_2026.txt
 ids_jasnum_15_09_2026.txt
 ids_naturell_15_09_2026.txt
 ids_solgar_22_09_2026.txt
-ids_test_23_09_2026.txt
 ids_białko_02_10_2026.txt
 ids_sanprobi_23_10_2026.txt
 ids_ibuvit_23_10_2026.txt
@@ -41,3 +40,5 @@ ids_bioderma_24_11_2026.txt
 ids_producer_bioderma_12_11_2026.txt
 ids_ducray_avene_a-derma_klorane_24_11_2026.txt
 ids_nutridrink_24_11_2026.txt
+ids_tena_24_11_2026.txt
+ids_seni_24_11_2026.txt
