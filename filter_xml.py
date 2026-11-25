@@ -1,6 +1,5 @@
 import xml.etree.ElementTree as ET
 import sys
-from datetime import datetime
 from pathlib import Path
 
 
@@ -98,8 +97,7 @@ def main(arguments):
 
     missing_ids = allowed_ids - found_ids
 
-    today = datetime.now().strftime("%d-%m-%Y")
-    output_file = f"oferta_filtered_{today}.xml"
+    output_file = "oferta_medkon_filtered.xml"
     tree.write(output_file, encoding="utf-8", xml_declaration=True)
 
     print("=== PODSUMOWANIE ===")

@@ -50,7 +50,8 @@ w tym samym folderze.
 Skrypt filter_xml.py automatycznie scala ID z podanych plików, usuwa duplikaty i na końcu pokazuje podsumowanie:
 ile ID wczytano, ile było unikalnych, ile produktów zapisano do XML oraz ile ID nie występuje już w aktualnym pliku oferta_medkon.xml.
 
-Po uruchimieniu skrytpu w ten sposób generowany jest plik "oferta_filtered_<aktualna-data>". 
+Po uruchomieniu skryptu generowany jest plik "oferta_medkon_filtered.xml".
+Każde kolejne uruchomienie nadpisuje ten sam plik, bez dodawania daty do nazwy.
 Plik ten należy załadować na github, otworzyć go w wersji RAW i adres URL tej wersji należy załadować do Ceneo.
 
 

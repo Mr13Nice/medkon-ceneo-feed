@@ -2,7 +2,6 @@ import argparse
 import sys
 import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
-from datetime import datetime
 from pathlib import Path
 
 
@@ -79,8 +78,8 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default=f"oferta_filtered_{datetime.now().strftime('%d-%m-%Y')}.xml",
-        help="Filtered XML file to validate, default: oferta_filtered_<today>.xml",
+        default="oferta_medkon_filtered.xml",
+        help="Filtered XML file to validate, default: oferta_medkon_filtered.xml",
     )
     args = parser.parse_args()
 

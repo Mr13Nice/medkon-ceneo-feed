@@ -13,4 +13,6 @@ Log aktualizacji: "oferta_medkon_update.log".
 3. Wygeneruj przefiltrowany XML dla Ceneo:
 python filter_xml.py
 
+Wynik: "oferta_medkon_filtered.xml". Każde uruchomienie nadpisuje ten sam plik, bez daty w nazwie.
+
 Pełna instrukcja: README.txt.

@@ -42,3 +42,4 @@ ids_ducray_avene_a-derma_klorane_24_11_2026.txt
 ids_nutridrink_24_11_2026.txt
 ids_tena_24_11_2026.txt
 ids_seni_24_11_2026.txt
+ids_vichy_zestawy.txt
