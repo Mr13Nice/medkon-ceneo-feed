@@ -25,8 +25,8 @@ ids_gehwol_06_08_2026.txt
 ids_pharmaceris_24_11_2026.txt
 ids_scholl_06_08_2026.txt
 ids_producer_olimp_06_08_2026.txt
-ids_producer_pierre_fabre_24_11_2026.txt
-ids_nuxe_24_11_2026.txt
+ids_producer_pierre_fabre_27_11_2026.txt
+ids_nuxe_27_11_2026.txt
 ids_mediket_01_09_2026.txt
 ids_producer_aboca_15_09_2026.txt
 ids_elgydium_24_11_2026.txt
@@ -37,7 +37,7 @@ ids_białko_02_10_2026.txt
 ids_sanprobi_23_10_2026.txt
 ids_ibuvit_23_10_2026.txt
 ids_bioderma_24_11_2026.txt
-ids_producer_bioderma_12_11_2026.txt
+ids_producer_bioderma_27_11_2026.txt
 ids_ducray_avene_a-derma_klorane_24_11_2026.txt
 ids_nutridrink_24_11_2026.txt
 ids_tena_24_11_2026.txt
